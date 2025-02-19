@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+     <h1>Redux Toolkit Counter Example</h1>
       <Counter />
     </>
   )
